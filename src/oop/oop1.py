@@ -20,7 +20,7 @@
 
 
 class Vehicle:
-    ''' base class'''
+    ''' base class '''
     pass
 
 
